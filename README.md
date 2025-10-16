@@ -249,3 +249,4 @@ Built with ❤️ for the Obsidian and MCP communities.
 <div align="center">
   <strong>⭐ If this project helps you, please consider starring the repository!</strong>
 </div>
+
