@@ -1,0 +1,11 @@
+reviews:
+  enabled: true
+  auto_review: true
+  request_changes_threshold: medium
+  large_pr_threshold: 800
+  label_filters:
+    include: ["automerge", "ready-for-review"]
+    exclude: ["wip"]
+  path_filters:
+    ignore: ["**/*.md", "**/docs/**"]
+  require_review_on:\n    - pull_request
