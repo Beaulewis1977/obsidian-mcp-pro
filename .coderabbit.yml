@@ -8,4 +8,5 @@ reviews:
     exclude: ["wip"]
   path_filters:
     ignore: ["**/*.md", "**/docs/**"]
-  require_review_on:\n    - pull_request
+  require_review_on:
+    - pull_request
