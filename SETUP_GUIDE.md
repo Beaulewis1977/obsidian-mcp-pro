@@ -62,7 +62,7 @@ git commit -m "feat: initial commit with full implementation
 
 ```bash
 # Add remote repository
-git remote add origin https://github.com/Beaulewis1977/obsidian-mcp.git
+git remote add origin https://github.com/Beaulewis1977/obsidian-mcp-pro.git
 
 # Verify remote
 git remote -v
@@ -90,7 +90,7 @@ git checkout develop
 
 ### **Phase 5: Configure GitHub Repository**
 
-Go to your GitHub repository: https://github.com/Beaulewis1977/obsidian-mcp
+Go to your GitHub repository: https://github.com/Beaulewis1977/obsidian-mcp-pro
 
 #### **5.1 Set Default Branch**
 

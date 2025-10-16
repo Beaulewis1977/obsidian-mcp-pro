@@ -1,7 +1,7 @@
 # GitHub Repository Setup Complete! ✅
 
 ## Repository Details
-- **URL**: https://github.com/Beaulewis1977/obsidian-mcp
+- **URL**: https://github.com/Beaulewis1977/obsidian-mcp-pro
 - **Visibility**: Public
 - **Owner**: Beaulewis1977
 
@@ -60,7 +60,7 @@ All essential files are included:
 You need to configure these in GitHub UI:
 
 **For `main` branch:**
-1. Go to: https://github.com/Beaulewis1977/obsidian-mcp/settings/branches
+1. Go to: https://github.com/Beaulewis1977/obsidian-mcp-pro/settings/branches
 2. Click "Add rule" or "Add branch protection rule"
 3. Branch name pattern: `main`
 4. Enable:
@@ -84,7 +84,7 @@ You need to configure these in GitHub UI:
 5. CodeRabbit will automatically review PRs to `develop`
 
 ### 3. Secrets Configuration (if publishing to npm)
-1. Go to: https://github.com/Beaulewis1977/obsidian-mcp/settings/secrets/actions
+1. Go to: https://github.com/Beaulewis1977/obsidian-mcp-pro/settings/secrets/actions
 2. Add secret: `NPM_TOKEN`
    - Get token from: https://www.npmjs.com/settings/YOUR_USERNAME/tokens
    - Type: Automation token
@@ -174,9 +174,9 @@ obsidian-mcp/
 ```
 
 ## Resources
-- Repository: https://github.com/Beaulewis1977/obsidian-mcp
-- CI/CD Status: https://github.com/Beaulewis1977/obsidian-mcp/actions
-- Branch Settings: https://github.com/Beaulewis1977/obsidian-mcp/settings/branches
+- Repository: https://github.com/Beaulewis1977/obsidian-mcp-pro
+- CI/CD Status: https://github.com/Beaulewis1977/obsidian-mcp-pro/actions
+- Branch Settings: https://github.com/Beaulewis1977/obsidian-mcp-pro/settings/branches
 - CodeRabbit: https://coderabbit.ai/
 
 ---

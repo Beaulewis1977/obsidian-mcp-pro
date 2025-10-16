@@ -291,7 +291,7 @@ git commit -m "fix: resolve critical bug"
 ## 📈 Monitoring & Maintenance
 
 ### **CI/CD Status**
-- View at: https://github.com/Beaulewis1977/obsidian-mcp/actions
+- View at: https://github.com/Beaulewis1977/obsidian-mcp-pro/actions
 - Badge in README shows current status
 
 ### **Code Coverage**
@@ -299,7 +299,7 @@ git commit -m "fix: resolve critical bug"
 - Coverage badge in README
 
 ### **Releases**
-- View at: https://github.com/Beaulewis1977/obsidian-mcp/releases
+- View at: https://github.com/Beaulewis1977/obsidian-mcp-pro/releases
 - Automatically generated release notes
 
 ---

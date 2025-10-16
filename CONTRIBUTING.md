@@ -13,8 +13,8 @@ Thank you for your interest in contributing! This document provides guidelines a
 
 1. **Fork and clone the repository:**
    ```bash
-   git clone https://github.com/Beaulewis1977/obsidian-mcp.git
-   cd obsidian-mcp
+   git clone https://github.com/Beaulewis1977/obsidian-mcp-pro.git
+   cd obsidian-mcp-pro
    ```
 
 2. **Install dependencies:**
@@ -215,8 +215,8 @@ Releases are automated when tags are pushed:
 
 ## Questions?
 
-- 💬 Open a [Discussion](https://github.com/Beaulewis1977/obsidian-mcp/discussions)
-- 🐛 Report bugs via [Issues](https://github.com/Beaulewis1977/obsidian-mcp/issues)
+- 💬 Open a [Discussion](https://github.com/Beaulewis1977/obsidian-mcp-pro/discussions)
+- 🐛 Report bugs via [Issues](https://github.com/Beaulewis1977/obsidian-mcp-pro/issues)
 - 📧 Contact: [Your email]
 
 ## License

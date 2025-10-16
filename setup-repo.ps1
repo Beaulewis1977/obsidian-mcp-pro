@@ -73,7 +73,7 @@ Write-Host ""
 
 # Step 7: Add remote
 Write-Host "🔗 Step 7: Adding GitHub remote..." -ForegroundColor Yellow
-git remote add origin https://github.com/Beaulewis1977/obsidian-mcp.git
+git remote add origin https://github.com/Beaulewis1977/obsidian-mcp-pro.git
 if ($LASTEXITCODE -ne 0) {
     Write-Host "⚠️  Remote already exists or failed to add" -ForegroundColor Yellow
 }
@@ -115,7 +115,7 @@ Write-Host "✅ Repository setup complete!" -ForegroundColor Green
 Write-Host "=============================================" -ForegroundColor Cyan
 Write-Host ""
 Write-Host "📝 Next Steps:" -ForegroundColor Yellow
-Write-Host "   1. Go to https://github.com/Beaulewis1977/obsidian-mcp/settings/branches" -ForegroundColor White
+Write-Host "   1. Go to https://github.com/Beaulewis1977/obsidian-mcp-pro/settings/branches" -ForegroundColor White
 Write-Host "   2. Set 'develop' as the default branch" -ForegroundColor White
 Write-Host "   3. Add branch protection rules for 'main' branch" -ForegroundColor White
 Write-Host "   4. Install CodeRabbit: https://github.com/apps/coderabbitai" -ForegroundColor White

@@ -4,11 +4,11 @@
 
 **🤖 AI-Powered Obsidian Integration | 🚀 Production Ready | 📚 Knowledge Management**
 
-[![CI](https://github.com/Beaulewis1977/obsidian-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Beaulewis1977/obsidian-mcp/actions/workflows/ci.yml)
+[![CI](https://github.com/Beaulewis1977/obsidian-mcp-pro/actions/workflows/ci.yml/badge.svg)](https://github.com/Beaulewis1977/obsidian-mcp-pro/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue)](https://www.typescriptlang.org/)
-[![Test Coverage](https://img.shields.io/badge/coverage-80%25-brightgreen)](https://github.com/Beaulewis1977/obsidian-mcp)
+[![Test Coverage](https://img.shields.io/badge/coverage-80%25-brightgreen)](https://github.com/Beaulewis1977/obsidian-mcp-pro)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 </div>
@@ -26,7 +26,7 @@
   <strong>Support My Work:</strong><br>
   Venmo: <a href="https://venmo.com/beauintulsa">@beauintulsa</a> |
   Ko‑fi: <a href="https://ko-fi.com/beaulewis">ko-fi.com/beaulewis</a><br>
-  Repo: <a href="https://github.com/Beaulewis1977/obsidian-mcp">github.com/Beaulewis1977/obsidian-mcp</a>
+  Repo: <a href="https://github.com/Beaulewis1977/obsidian-mcp-pro">github.com/Beaulewis1977/obsidian-mcp-pro</a>
 </div>
 
 ---
@@ -110,8 +110,8 @@ A **production-ready Model Context Protocol (MCP) server** that enables AI assis
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Beaulewis1977/obsidian-mcp.git
-cd obsidian-mcp
+git clone https://github.com/Beaulewis1977/obsidian-mcp-pro.git
+cd obsidian-mcp-pro
 
 # 2. Install dependencies
 npm install
@@ -205,7 +205,7 @@ This server is configured via a JSON file. Environment variables can supplement 
   "mcpServers": {
     "obsidian": {
       "command": "node",
-      "args": ["/path/to/obsidian-mcp/dist/index.js"]
+    "args": ["/path/to/obsidian-mcp-pro/dist/index.js"]
     }
   }
 }
